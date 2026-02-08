@@ -19,7 +19,6 @@ Sistem verileri iki ana tabloda depolar:
 1.  **attacks:** IP adresi, giriş zamanı, kullanıcı adı ve parola.
 2.  **command_history:** Her saldırı oturumuyla eşleşen, saldırganın yürüttüğü komutlar ve zaman damgaları.
 
-## 🛠️ Kurulum ve Çalıştırma  Aşamaları
-  python honeypot.py
-  telnet localhost 5000
-   
+## 🛠️ Kurulum ve Çalıştırma  Aşamaları 
+1.  python honeypot.py
+2.  telnet localhost 5000
